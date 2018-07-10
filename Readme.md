@@ -6,10 +6,10 @@ cd emptygaz
 mkdir build  
 cmake ..  
 make  
-./src/emptygaz_exe ../conf.ini_  
+*./src/emptygaz_exe ../conf.ini*  
 _ouvre fichier : ../conf.ini_  
 _param toto::titi : hello_  
 _test GPU_  
-_on recupere le resultat _  
-_resultat GPU (42?) : 0 _  
+_on recupere le resultat_  
+_resultat GPU (42?) : 0_  
 
