@@ -22,8 +22,8 @@ _resultat GPU (42?) : 0_
 ## Pour tester la lib json :
 
 Décommenter dans ./src/CMakeLists.txt les lignes 10 à 17
-puis : 
-make 
+puis :  
+make  
 ./src/emptygaz_json ../conf.json  
 _test json_  
 _open json : ../conf.json_  
